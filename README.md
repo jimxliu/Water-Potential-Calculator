@@ -1,1 +1,3 @@
 # Water-Potential-Calculator
+This app calculates the water potential of a certain object, usually, soil or plant tissue, using two standard solutions as the standards for the measurement. 
+To be continued...
