@@ -3,6 +3,6 @@ This app calculates the water potential of a certain object, usually, soil or pl
 
 Download the jar file, and run as this: 
 
-  $ java -jar packEx.jar
+  $ java -jar wpcalculator.jar
 
 To be continued...
