@@ -153,7 +153,7 @@ public class WPC extends JFrame{
 					if(s < 30 || s > 50)
 						slope.setForeground(Color.RED);
 					else
-						slope.setForeground(Color.RED);					
+						slope.setForeground(Color.BLACK);					
 				} else {
 					wp.setText("#####");
 					slope.setText("#####");
